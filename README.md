@@ -12,8 +12,6 @@ Tasa de refresco: 60Hz, 144Hz, 240Hz.
 
 Panel: TN, IPS, VA, OLED.
 
-Tiempo de respuesta: Importante en gaming.
-
 Conectividad: HDMI, DisplayPort, USB-C.
 
 ## 3. Tipos de monitores
@@ -28,24 +26,14 @@ Táctiles: Interacción directa con la pantalla.
 
 ## 4. Ejemplos comerciales
 
-Dell UltraSharp U2723QE: 4K, IPS, USB-C.
+Para diseño gráfico: Eizo ColorEdge  - Resolución 4K+, panel IPS, cobertura del 99% AdobeRGB, calibración integrada.
 
-ASUS ROG Swift PG259QN: 360Hz, 1ms, Full HD.
+Para trabajo: Dell UltraSharp  - 4K, panel IPS con tecnología ComfortView Plus, conectividad USB-C.
 
-LG OLED48C1: 4K, OLED, ideal para gaming.
-
-Samsung Odyssey G9: 49", curva, 240Hz.
+Para gaming: ASUS ROG Swift  - 360Hz, 1ms, Full HD, tecnología NVIDIA G-Sync.
 
 ## 5. Conclusión
 
 Los monitores son esenciales en tecnología moderna, adaptándose a distintos usos como trabajo, gaming y diseño. Su evolución mejora la calidad visual y la experiencia del usuario.
 
-## 📚 Referencias
 
-Dell UltraSharp U2723QE
-
-ASUS ROG Swift PG259QN
-
-LG OLED48C1
-
-Samsung Odyssey G9
